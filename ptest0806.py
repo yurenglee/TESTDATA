@@ -1,3 +1,4 @@
+# Excel 曲線繪圖工具
 import os
 import math
 import tkinter as tk
